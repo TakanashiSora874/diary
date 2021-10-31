@@ -1,0 +1,48 @@
+.new-overall {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+}
+
+.new-header {
+  width: 320px;
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+
+.error {
+  width: 320px;
+  font-size: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: red;
+}
+
+.error-message {
+  width: 320px;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+
+.link {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 18px;
+}
+
+.root {
+  text-decoration: none;
+  color: white;
+}
+
+.new-footer {
+  width: 320px;
+  text-align: center;
+  margin-top: 20px;
+}

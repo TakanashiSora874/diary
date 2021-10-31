@@ -1,0 +1,164 @@
+.overall {
+  width: 100vw;
+  height: auto;
+  background-color: black;
+}
+
+.nav {
+  font-size: 20px;
+}
+
+.header {
+  width: 320px;
+  height: auto;
+  margin: auto;
+}
+
+.lists {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.login {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 3px;
+}
+
+.sign-up {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 3px;
+}
+
+.main {
+  width: 320px;
+  height: auto;
+  margin: auto;
+}
+
+.title {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.diary-image {
+  width: 320px;
+  height: 320px;
+  margin-bottom: 100px;
+}
+
+.diary-head {
+  border: 1px solid white;
+}
+
+.name-lists {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0px;
+  position: relative;
+}
+
+.name {
+  color: white;
+  font-size: 25px;
+}
+
+.date {
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.diary-body {
+  color: white;
+  border: 1px solid white;
+  text-align: center;
+}
+
+.diary-foot {
+  color: white;
+  font-size: 25px;
+  margin-bottom: 50px;
+  border: 1px solid white;
+  padding-bottom: 15px;
+}
+
+.diary-foot-title {
+  margin: auto;
+  align-items: center;
+}
+
+.kome {
+  font-size: 1px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.dot {
+  text-decoration: none;
+  color: white;
+}
+
+.color-red {
+  color: red;
+}
+
+.comment-lists {
+  list-style: none;
+  font-size: 18px;
+}
+
+.comment-text {
+  font-size: 15px;
+}
+
+.footer {
+  width: 320px;
+  height: auto;
+  margin: auto;
+}
+
+.horror {
+  text-align: center;
+  font-size: 65px;
+  color: black;
+  margin-bottom: 150px;
+}
+
+.behind {
+  color: black;
+}
+
+.message {
+  height: 91vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.message-text {
+  color: black;
+  font-size: 70px;
+  text-align: center;
+  padding: auto;
+  display: table-cell;
+}
+
+.reveal {
+  color: white;
+  font-size: 40px;
+}
+
+.last-text{
+  color: red;
+}
