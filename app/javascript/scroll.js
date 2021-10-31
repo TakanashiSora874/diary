@@ -25,8 +25,8 @@ function set (){
   $(function(){
   scrollTo(0,0);
   });
-  m = 2870;
-  l = 2983;
+  m = 2867;
+  l = 2980;
   var date1 = new Date();
   const nowMonth1 = document.getElementById("now-month1");
   const nowDay1 = document.getElementById("now-day1");
