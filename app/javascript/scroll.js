@@ -25,8 +25,8 @@ function set (){
   $(function(){
   scrollTo(0,0);
   });
-  m = 2907;
-  l = 3020;
+  m = 2937;
+  l = 3010;
   var date1 = new Date();
   const nowMonth1 = document.getElementById("now-month1");
   const nowDay1 = document.getElementById("now-day1");
@@ -130,6 +130,7 @@ window.onscroll = function(){
     $("#escape").hide();
     $("[id=frame1]").hide();
     $("[id=frame3]").show();
+    $("#url").hide();
     sleep(500);
     $(function(){
       $("#message-text1").css({"color":"red"});

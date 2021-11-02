@@ -12,7 +12,8 @@
   width: 320px;
   height: auto;
   margin: auto;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 .lists {
@@ -33,6 +34,16 @@
   color: white;
   border: 1px solid white;
   padding: 3px;
+}
+
+.url {
+  color: white;
+  text-align: right;
+  margin-top: 10px;
+}
+
+.tosurl {
+  color: skyblue;
 }
 
 .main {
